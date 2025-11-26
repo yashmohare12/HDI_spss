@@ -2,7 +2,7 @@
 
 **Drivers of Global Development: A Statistical Regression Analysis**
 
-**Objective **
+**Objective**
 The objective of this analysis was to identify the primary drivers of the Human Development Index (HDI) across 25 diverse nations. Using Multiple Linear Regression, we modeled the relationship between HDI and four key indicators: Economic Wealth (GDP), Public Health (Life Expectancy), Infrastructure (Internet Penetration), and Education (School Enrollment).The final model explains 96% of the variance in HDI scores (R^2=.96). The analysis reveals that while all four factors are statistically significant, Life Expectancy and Internet Penetration are the strongest predictors of a nation's development, outweighing raw GDP per capita.
 
 **Methodology & Data Tool Used:**
@@ -37,7 +37,7 @@ School Enrollment: Education measure (% Gross).
 
 **Key Findings & Managerial Insights1.** Health is Wealth (Beta .38): Contrary to the popular belief that "money buys development," our model proves that Life Expectancy is the single strongest driver of HDI. A healthy population is more productive and capable than a purely wealthy one. The Digital Factor (Beta .31): Internet Penetration emerged as the second most important factor. In the modern economy, access to information acts as a "force multiplier" for development 3. The Education Threshold (Beta .18): School Enrollment was significant, but it had the lowest impact. This suggests that while getting students into school is necessary, it is the outcomes of that education (often captured by Internet usage and GDP) that truly drive development scores.
 
-****Conclusion ****
+**Conclusion**
 This project successfully validated a 4-factor model for predicting Human Development. The analysis suggests that developing nations looking to improve their standing should prioritize Healthcare and Digital Infrastructure investments, as these yield higher marginal returns on HDI than focusing solely on GDP growth.
 
 
